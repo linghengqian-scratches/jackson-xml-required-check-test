@@ -1,6 +1,6 @@
 # jackson-xml-required-check-test
 
-- For https://github.com/apache/shardingsphere/pull/29384 .
+- For https://github.com/apache/shardingsphere/pull/29384 and https://github.com/FasterXML/jackson-dataformat-xml/issues/625 .
 
 - Execute the following command on the Ubuntu 22.04.3 instance with `SDKMAN!` installed.
 
